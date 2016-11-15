@@ -1,4 +1,4 @@
-# ashjahdjksahjashjkk
+B# ashjahdjksahjashjkk
 sudo apt-get update
 sudo apt-get install gcc
 sudo apt-get install python
@@ -32,4 +32,4 @@ cd ~/
 wget https://raw.githubusercontent.com/ats-lang/ats-lang.github.io/master/SCRIPT/C9-ATS2-install-cs520-z3.sh
 sh -v C9-ATS2-install-cs520-z3.sh
 
-
+rm -rf z3-4.4.1.tar.gz z3-z3-4.4.1
